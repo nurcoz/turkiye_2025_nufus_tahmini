@@ -1,3 +1,5 @@
 # turkiye_2025_nufus_tahmini
 
-2009 yılından itibaren
+Veri 2009-2024 yılından itibaren, 2025'i tahmin et
+Kullanılan değişkenler:
+- 

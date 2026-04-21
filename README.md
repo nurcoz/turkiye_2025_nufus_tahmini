@@ -2,4 +2,5 @@
 
 Veri 2009-2024 yılından itibaren, 2025'i tahmin et
 Kullanılan değişkenler:
+- Toplam nüfus (Population, total )
 - 

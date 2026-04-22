@@ -24,3 +24,6 @@ Kullanılan değişkenlere ait tablolar:
 - Nüfus Artış Hızı (Yıllara göre illerin yıllık nüfus artış hızı ve nüfus yoğunluğu, 2007-2024) -> Adrese Dayalı Nüfus Kayıt Sistemi Sonuçları, 2024
 - Net Göç (İllere ve vatandaşlığa göre Türkiye'ye gelen ve Türkiye'den giden göç, 2016-2024) -> Uluslararası Göç İstatistikleri, 2024
 
+
+NEXT...
+göç ü nasıl artış hızını doldurduk?

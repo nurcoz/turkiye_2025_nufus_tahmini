@@ -12,9 +12,13 @@ Veri 2009-2024 yılından itibaren, 2025'i tahmin et
 Kullanılan bültenler:
 - Adrese Dayalı Nüfus Kayıt Sistemi Sonuçları, 2024
 - Doğum İstatistikleri, 2024
-- 
+- Ölüm ve Ölüm Nedeni İstatistikleri, 2024
+- Uluslararası Göç İstatistikleri, 2024
+  
 Kullanılan değişkenlere ait tablolar:
-- Toplam Nüfus (Yıllara göre il nüfusları, 2000-2024)
-- Nüfus Artış Hızı (Yıllara göre illerin yıllık nüfus artış hızı ve nüfus yoğunluğu, 2007-2024)
-- Kaba Doğum Hızı (İllere göre kaba doğum hızı, 2009-2024)
+- Toplam Nüfus (Yıllara göre il nüfusları, 2000-2024) -> Adrese Dayalı Nüfus Kayıt Sistemi Sonuçları, 2024
+- Kaba Doğum Hızı (İllere göre kaba doğum hızı, 2009-2024) -> Doğum İstatistikleri, 2024
+- Kaba Ölüm Hızı (Temel ölümlülük göstergeleri, 2009-2024) -> Ölüm ve Ölüm Nedeni İstatistikleri, 2024
+- Nüfus Artış Hızı (Yıllara göre illerin yıllık nüfus artış hızı ve nüfus yoğunluğu, 2007-2024) -> Adrese Dayalı Nüfus Kayıt Sistemi Sonuçları, 2024
+- Net Göç (İllere ve vatandaşlığa göre Türkiye'ye gelen ve Türkiye'den giden göç, 2016-2024) -> Uluslararası Göç İstatistikleri, 2024
 

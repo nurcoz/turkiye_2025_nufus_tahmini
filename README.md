@@ -35,7 +35,7 @@ Metaveri
 
 Öncelikle doğal nüfus artışını bulmak için doğum hızından ölüm hızını çıkardık. 
 Net göç artış oranını bulabilmek için toplam yıllık net göçü, toplam nüfus nüfusuna oranladık ve binle çarptık, böylece yıl içinde her bin nüfus başına düşen net göç sayısını oransal olarak elde etmiş olduk.
-Ancak veriler 2016 yılı öncesi eksik bulunduğundan tamamlanması gerekmekteydi. Bu kısımları doldurabilmek amacı ile o kısımlar dolu olanları göç hızını hesapladık boş olanları na olarak kabul ettik ve nufus artış hızından doğal artışı çıkarark hesaplayacağımızı belirttik. başka bir deyişle yıl sonu nüfusundaki artış, sadece doğanlar ve ölenler arasındaki farkla (Doğal Artış) açıklanamıyorsa; aradaki bu açıklanamayan fark (bakiye) mecburen Net Göç olmak zorundadır diye kabul ettik. 
+Ancak veriler 2016 yılı öncesi eksik bulunduğundan tamamlanması gerekmekteydi. Bu kısımları doldurabilmek amacı ile o kısımlar dolu olanları göç hızını hesapladık boş olanları na olarak kabul ettik ve nufus artış hızından doğal artışı çıkarark hesaplayacağımızı belirttik. başka bir deyişle yıl sonu nüfusundaki artış, sadece doğanlar ve ölenler arasındaki farkla (Doğal Artış) açıklanamıyorsa; aradaki bu açıklanamayan fark (bakiye) mecburen Net Göç olmak zorundadır diye kabul ettik. Daha sonra göç hızından net göç'ü elde etmek için net göçü yalnız bıraktık. Net Göç = (Göç Hızı / 1000) * Nüfus 
 
 NEXT...
 göç ü nasıl artış hızını doldurduk?
